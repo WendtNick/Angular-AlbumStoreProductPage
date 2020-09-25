@@ -6,6 +6,6 @@
     "\\src\\app\\product-description",
     "\\src\\app\\product-page"
   ],
-  "SelectedNode": "\\src\\app\\product.service.ts",
+  "SelectedNode": "\\src\\app\\product-description\\product-description.component.ts",
   "PreviewInSolutionExplorer": false
 }
